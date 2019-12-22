@@ -1,7 +1,5 @@
 # 1313
 
-aaaa.
-
 ## Description:
 Design a  Block Chain Based Voting System for Android.
 ## Team ID:
