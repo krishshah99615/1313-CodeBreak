@@ -15,6 +15,8 @@ Design a  Block Chain Based Voting System for Android.
 * Jeeavn Thukrul
 ## Repository Link:
 https://github.com/krishshah99615/1313-CodeBreak
+## Presentation  Link:
+https://prezi.com/view/xmGTNKfqgVvcy6hsBzJI/
 ## Labels:
 * Block Chain
 * Python
@@ -34,5 +36,5 @@ Votercoin is a blockchain-based e-voting system developed for android applicatio
 * Android
 * MongoDb
 ## Some Hightlights
- We are trying to implement our block chan over ethereum network ,but we are not able to implement due to, unable to fetch the wallet address into mongodb.
+ We are trying to implement our block chian over ethereum network ,but we are not able to implement due to, unable to fetch the wallet address into mongodb.
  We do have our Smart contract ready and working .
